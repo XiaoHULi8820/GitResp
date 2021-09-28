@@ -7,4 +7,6 @@ package com.cpf;
  * @version: 1.0
  */
 public class Persom {
+    private String name;
+    private String age;
 }
